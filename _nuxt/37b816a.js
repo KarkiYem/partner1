@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{741:function(n,l,t){"use strict";t.r(l);var o={layout:"DashboardLayout"},e=t(7),component=Object(e.a)(o,(function(){var n=this._self._c;return n("div",[n("client-only",[n("big-calendar")],1)],1)}),[],!1,null,null,null);l.default=component.exports}}]);
